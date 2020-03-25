@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["search"],{"2d3b":function(e,s,t){"use strict";t.r(s);var n=function(){var e=this,s=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,s=e.$createElement,t=e._self._c||s;return t("div",{staticClass:"search"},[t("h1",[e._v("This is the search results page")])])}],a=t("2877"),c={},l=Object(a["a"])(c,n,r,!1,null,null,null);s["default"]=l.exports}}]);
+//# sourceMappingURL=search.20298620.js.map
